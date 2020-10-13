@@ -18,7 +18,7 @@ const App = (props) => {
       }
       setScore(0);
       setClickedImages([]);
-    } else if (score == maxScore - 1) {
+    } else if (score === maxScore - 1) {
       // Win Game
       setHighscore(maxScore);
       setScore(maxScore);
