@@ -4,7 +4,7 @@ import Cards from "./components/Cards";
 import Win from "./components/Win";
 import CardData from "./components/CardData";
 
-// test comment
+// test comment 2
 const App = (props) => {
   const [clickedImages, setClickedImages] = useState([]);
   const [score, setScore] = useState(0);
