@@ -93,7 +93,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Sami Kaisanlahti - skaisanlahti@gmail.com
-
 Project Link: [https://github.com/skaisanlahti/memory-game](https://github.com/skaisanlahti/memory-game)
 
 <!-- ACKNOWLEDGEMENTS -->
